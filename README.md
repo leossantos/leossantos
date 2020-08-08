@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 **### Hi there 👋
 -->
-<img src="https://github.com/leossantos/leossantos/blob/master/Banner_git.png">
+<img src="https://github.com/leossantos/leossantos/blob/master/Banner_git_1.png">
 
